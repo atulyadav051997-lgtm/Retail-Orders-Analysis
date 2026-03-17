@@ -29,4 +29,8 @@ using MySQL, Excel and Power BI.
 4. Built interactive Power BI dashboard
 
 ## Dashboard Preview
-(Add screenshot here)
+## Power BI Dashboard
+![Power BI Dashboard](powerbi_dashboard.png)
+
+## Excel Dashboard
+![Excel Dashboard](excel_dashboard.png)
